@@ -1,0 +1,10 @@
+[package]
+name = "indie-name-generator"
+version = "0.1.0"
+authors = ["rafaelsierra"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.0"
+Inflector = "0.11.4"
+rand = "0.6.5"
